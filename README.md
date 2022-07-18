@@ -2,8 +2,6 @@
 
 This plugin will allow you to add simple validation to your GOVUK prototype. You can check text inputs and textareas are not blank, and make sure at least one option is selected on radios and checkboxes.
 
-There are a set of tests you can run against this code to check it is working as expected. You can get the tests here:
-[https://github.com/abbott567/validation-for-prototypes-tests](https://github.com/abbott567/validation-for-prototypes-tests "Validation Tests")
 ###**WARNING: For prototypes only. Do not use in production under any circumstances**
 
 ![Demonstration of validation](https://raw.githubusercontent.com/abbott567/validation-for-prototypes/images/images/validation.gif "Validation Demonstration")
@@ -135,3 +133,6 @@ In order to make the validation work, your HTML markup must be correct. Below ar
 
 ### original by Craig Abbot, this is now a archieved repo, but still works!
 
+There are a set of tests you can run against this code to check it is working as expected. You can get the tests here:
+
+[https://github.com/abbott567/validation-for-prototypes-tests](https://github.com/abbott567/validation-for-prototypes-tests "Validation Tests")
